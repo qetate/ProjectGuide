@@ -4,7 +4,7 @@
 
 | Project Link | Tools | Skills | Project Description | 
 |---|---|---|---|
-| [COVID-19 Data Exploration](https://github.com/qetate/CovidDataExploration) | SQL, MySQL Workbench | Data Analysis, Convertinhg Data Types, Temporary Tables | I explored COVID-19 data to analyze various aspects of the pandemic using SQL. |
+| [COVID-19 Data Exploration](https://github.com/qetate/CovidDataExploration) | SQL, MySQL Workbench | Data Analysis, Converting Data Types, Temporary Tables | I explored COVID-19 data to analyze various aspects of the pandemic using SQL. |
 | [COVID-19 Dashboard](https://github.com/qetate/CovidDashboardQueries) | Tableau, SQL | Data Visualization | This project involves creating a Tableau dashboard using the COVID-19 data explored in my COVID-19 Data Exploration Project. |
 | [Bike Sales in Excel](https://github.com/qetate/BikeSalesExcelProject) | Microsoft Excel | Pivot Tables, Data Cleaning, Dashboard Creation | This Excel project focuses on cleaning and analyzing a dataset related to bike purchases. It involves several steps to prepare the data for analysis and create meaningful insights using pivot tables and a dashboard. |
 | [Movie Correlation](https://github.com/qetate/MovieCorrelationProject) | Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebook | Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA), Correlation Analysis | The primary objective of this project is to perform data cleaning and analysis on a movie dataset to uncover meaningful correlations, particularly focusing on the relationship between movie budgets and gross earnings. |
