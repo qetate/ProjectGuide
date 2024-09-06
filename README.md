@@ -1,6 +1,6 @@
 # Quinn's Portfolio
   
-## Data Analysis
+## Data Science
 
 | Project Link | Tools | Skills | Project Description | 
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [FAQ Application (Capstone)](https://github.com/qetate/FAQApplication-Capstone) | PHP, MySQL, HTML/CSS | Frontend Development, Backend Development, Database Management | This project is a simple Question and Answer (Q&A) system designed for Northeast State to help facilitate efficient communication between the students and faculty. |
 | [Glucose App](https://github.com/qetate/GlucoseChartReactApp) | React, Chart.js | Frontend Development, API Integration | A web application developed to visualize Continuous Glucose Monitoring (CGM) data obtained from the LibreView API. |
 | [GNews Android App](https://github.com/qetate/GNewsAndroidApp) | C#, Xamarin.Forms | API Integration, JSON Parsing | The GNews Android App is a mobile app designed to display the latest news articles from various categories. |
+| [WeatherAPI](https://github.com/qetate/WeatherAPI) | Python, SQLite | API Integration, Database Creation | This program fetches weather data for the provided event location and date over the past five year and then stores the information in a SQLite database. |
